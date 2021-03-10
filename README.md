@@ -1,5 +1,10 @@
 # compose-cheatsheet
 
+## Setup your compose project
+- https://developer.android.com/jetpack/compose/setup
+
+## Useful Libraries
+
 ### FlowLayout
 - https://github.com/STAR-ZERO/ComposeFlowLayout
 
