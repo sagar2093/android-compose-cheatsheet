@@ -3,6 +3,9 @@
 ## Setup your compose project
 - https://developer.android.com/jetpack/compose/setup
 
+## Awesome Jetpack Compose
+- https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources
+
 ## Useful Libraries
 
 ### FlowLayout
