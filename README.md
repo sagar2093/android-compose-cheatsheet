@@ -19,6 +19,9 @@
 ### MarkDownText
 - https://github.com/jeziellago/compose-markdown
 
+### Shimmer Effect
+- https://github.com/kazemihabib/compose-shimmer
+
 ### SwipeRefresh/PullToRefresh 
 - https://github.com/poculeka/PullToRefresh
 
