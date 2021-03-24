@@ -8,6 +8,9 @@
 
 ## Useful Libraries
 
+### Calendar
+- https://github.com/fvalela1/CalendarJetpackCompose
+
 ### DebugDrawer
 - https://github.com/alorma/Compose-Debug-Drawer
 
