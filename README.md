@@ -18,6 +18,9 @@
 - https://google.github.io/accompanist/flowlayout/
 - https://github.com/STAR-ZERO/ComposeFlowLayout
 
+### Icons
+- FontAwesome: https://github.com/Gurupreet/FontAwesomeCompose
+
 ### Image Loading
 - Accompanist Coil https://google.github.io/accompanist/coil/
 - Accompanist Glide https://google.github.io/accompanist/glide/
@@ -30,7 +33,6 @@
 
 ### Pager(ViewPager)
 - https://google.github.io/accompanist/pager/
-- 
 
 ### Shimmer Effect
 - https://github.com/kazemihabib/compose-shimmer
