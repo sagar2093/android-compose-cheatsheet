@@ -34,10 +34,14 @@
 ### Pager(ViewPager)
 - https://google.github.io/accompanist/pager/
 
+### Pager Snap Helper
+- https://github.com/aakarshrestha/compose-pager-snap-helper
+
 ### Shimmer Effect
 - https://github.com/kazemihabib/compose-shimmer
 
 ### SwipeRefresh/PullToRefresh 
+- https://github.com/aakarshrestha/compose-swipe-to-refresh
 - https://github.com/poculeka/PullToRefresh
 
 ### Zoomable
