@@ -37,6 +37,9 @@
 ### Pager Snap Helper
 - https://github.com/aakarshrestha/compose-pager-snap-helper
 
+### RevealSwipe
+- https://github.com/ch4rl3x/RevealSwipe
+
 ### Shimmer Effect
 - https://github.com/kazemihabib/compose-shimmer
 
