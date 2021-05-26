@@ -6,6 +6,9 @@
 ## Awesome Jetpack Compose
 - https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources
 
+## AutoScrolling Infinite List
+- https://proandroiddev.com/infinite-auto-scrolling-lists-with-recyclerview-lazylists-in-compose-1c3b44448c8
+
 ## Useful Libraries
 
 ### Calendar
