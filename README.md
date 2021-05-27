@@ -9,10 +9,13 @@
 ## AutoScrolling Infinite List
 - https://proandroiddev.com/infinite-auto-scrolling-lists-with-recyclerview-lazylists-in-compose-1c3b44448c8
 
-## Useful Libraries
+## Useful Libraries/Codes
 
 ### Calendar
 - https://github.com/fvalela1/CalendarJetpackCompose
+
+### Chips
+- https://gist.github.com/bmc08gt/f016825c070b3a166288c38cd698f5cb
 
 ### DebugDrawer
 - https://github.com/alorma/Compose-Debug-Drawer
