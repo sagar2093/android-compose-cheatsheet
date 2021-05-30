@@ -26,6 +26,7 @@
 
 ### Icons
 - FontAwesome: https://github.com/Gurupreet/FontAwesomeCompose
+- Adaptive Icon: https://gist.github.com/tkuenneth/ddf598663f041dc79960cda503d14448
 
 ### Image Loading
 - Accompanist Coil https://google.github.io/accompanist/coil/
