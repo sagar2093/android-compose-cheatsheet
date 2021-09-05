@@ -55,6 +55,10 @@
 - https://github.com/aakarshrestha/compose-swipe-to-refresh
 - https://github.com/poculeka/PullToRefresh
 
+### Text
+- AutoSize Text: https://gist.github.com/bmc08gt/e890e63124846e02f6afb38ee27e9f9c
+- 
+
 ### Zoomable
 - https://github.com/Tlaster/Zoomable
 
